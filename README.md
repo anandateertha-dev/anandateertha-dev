@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vortex</h1>
+<h1 align="center">Hi 👋, I'm Anandateertha</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<h3 align="center"><a href="https://github.com/Anandateertha">My main account with JavaScript Projects</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vortexprojects&label=Profile%20views&color=0e75b6&style=flat" alt="vortexprojects" /> </p>
 
