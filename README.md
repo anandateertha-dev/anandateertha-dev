@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anandateertha</h1>An enthusiastic full stack developer from IndiaA passionate software developer from India</h3>
+<h1 align="center">Hey everyone! 🌟 Anandateertha here! 👋</h1><h3 align="center">An enthusiastic full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandateertha-dev&label=Profile%20views&color=0e75b6&style=flat" alt="anandateertha-dev" /> </p>
 
